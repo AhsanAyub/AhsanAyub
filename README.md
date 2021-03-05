@@ -8,9 +8,9 @@ At CEROC, I mainly conduct research in the domain of Malware Analysis where I ai
 - 🔭 I’m currently working on [Static Ransomware Analysis](https://github.com/AhsanAyub/static_ransomware_analysis), where my research collaborators and I are exploring data-driven similarities of the structure of ransowmare samples to propose an impactful prevention technique.
 - 🌱 I’m currently learning Data Structure and Algorithms based competitive programs' solutions to improve my technical and problem-solving skills. Additionally, I am a constant learner of Statistics, Data Science, Machine Learning, and Deep Learning based techniques.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhsanAyub&show_icons=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhsanAyub&show_icons=true&theme=radical)  
 
-![Profile views](https://gpvc.arturio.dev/AhsanAyub)
+![Profile Views](https://gpvc.arturio.dev/AhsanAyub)
 
 <!--
 **AhsanAyub/AhsanAyub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
