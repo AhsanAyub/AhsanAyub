@@ -4,6 +4,7 @@ I am a Ph.D. student in the [Department of Computer Science](https://www.tntech.
 
 At CEROC, I mainly conduct research in the domain of Malware Analysis where I aim to solve important, real-world challenges that involve identification, protection, detection, and recovery from malware by incorporating Data Science, Machine Learning, Deep Learning, and other techniques as per requirement(s).
 
+- 😄 Pronouns: He/His
 - 🔭 I’m currently working on [Static Ransomware Analysis](https://github.com/AhsanAyub/static_ransomware_analysis), where my research collaborators and I are exploring data-driven similarities of the structure of ransowmare samples to propose an impactful prevention technique.
 - 🌱 I’m currently learning Data Structure and Algorithms based competitive programs' solutions to improve my technical and problem-solving skills. Additionally, I am a constant learner of Statistics, Data Science, Machine Learning, and Deep Learning based techniques.
 
