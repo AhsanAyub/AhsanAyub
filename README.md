@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ahsan!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/mdahsanayub/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='20'>](https://scholar.google.com/citations?user=xRr78bIAAAAJ&hl=en) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='20'>](https://www.researchgate.net/profile/Ahsan-Ayub-6) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/MdAhsanAyub)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/mdahsanayub/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='20'>](https://scholar.google.com/citations?user=xRr78bIAAAAJ&hl=en) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='20'>](https://www.researchgate.net/profile/Ahsan-Ayub-6) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/MdAhsanAyub) ![Profile Views](https://gpvc.arturio.dev/AhsanAyub)
 
 I am a Ph.D. student in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis of Cybersecurity and have been working at [Cybersecurity Education, Research & Outreach Center (CEROC)](https://www.tntech.edu/ceroc/) as a Graduate Research Assistant under the supervision of [Prof. Dr. Ambareen Siraj](https://www.linkedin.com/in/ambareensiraj/).
 
@@ -14,8 +14,6 @@ At CEROC, I mainly conduct research in the domain of Malware Analysis where I ai
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhsanAyub&show_icons=true&theme=radical)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanAyub&layout=compact&exclude_repo=parameter_optimization_dga_analysis,ahsanayub.github.io,parameter_optimization_pdf_malware&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile Views](https://gpvc.arturio.dev/AhsanAyub)
 
 <!--
 **AhsanAyub/AhsanAyub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
