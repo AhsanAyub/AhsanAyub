@@ -4,10 +4,10 @@
 
 I am a Ph.D. student in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis of Cybersecurity and have been working at [Cybersecurity Education, Research & Outreach Center (CEROC)](https://www.tntech.edu/ceroc/) as a Graduate Research Assistant under the supervision of [Prof. Dr. Ambareen Siraj](https://www.linkedin.com/in/ambareensiraj/).
 
-At CEROC, I mainly conduct research in the domain of Malware Analysis where I aim to solve important, real-world challenges that involve identification, protection, detection, and recovery from malware by incorporating Data Science, Machine Learning, Deep Learning, and other techniques as per requirement(s).
+At CEROC, I mainly contribute to the experiential research of both static and dynamic malware analysis for ransomware to propose multi-layered endpoint protection by incorporating Data Science, Machine Learning, and Reverse Engineering techniques. Additionally, I collaborate with the external security researchers in industry, U.S. national labs, and other universities to initiate as well as review the scope of research, perform experimentations, observe its progress, and analyze the empirical findings.
 
 - 😄 Pronouns: He/His
-- 🔭 I’m currently working on [Static Ransomware Analysis](https://github.com/AhsanAyub/static_ransomware_analysis), where my research collaborators and I are exploring data-driven similarities of the structure of ransowmare samples to propose an impactful prevention technique.
+- 🔭 I’m currently working on [Deep Static Ransomware Analysis](https://github.com/AhsanAyub/deep_static_ransomware_analysis#readme), where my research collaborators and I are exploring data-driven similarities of the structure of ransowmare samples to propose an impactful prevention technique.
 - 🌱 I’m currently learning Data Structure and Algorithms to improve my technical and problem-solving skills. Additionally, I am a constant learner of Statistics, Data Science, Machine Learning, and Deep Learning based techniques.
 
 
