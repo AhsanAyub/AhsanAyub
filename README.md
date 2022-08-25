@@ -11,7 +11,7 @@ At CEROC, I mainly contribute to the experiential research of both static and dy
 - 🌱 I’m currently learning Data Structure and Algorithms to improve my technical and problem-solving skills. Additionally, I am a constant learner of Statistics, Data Science, Machine Learning, and Deep Learning based techniques.
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ahsan_ayub?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/AhsanAyub?theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhsanAyub&show_icons=true&theme=radical)  
 
