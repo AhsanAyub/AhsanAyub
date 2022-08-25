@@ -16,7 +16,7 @@ At CEROC, I mainly contribute to the experiential research of both static and dy
 <b>⚡ Github Stats</b>
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhsanAyub&show_icons=true&theme=radical" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanAyub&layout=compact&exclude_repo=parameter_optimization_dga_analysis,ahsanayub.github.io,parameter_optimization_pdf_malware&hide=yara,html"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanAyub&layout=compact&theme=radical&exclude_repo=parameter_optimization_dga_analysis,ahsanayub.github.io,parameter_optimization_pdf_malware&hide=yara,html"/>
 </p>
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhsanAyub&show_icons=true&theme=radical)  
