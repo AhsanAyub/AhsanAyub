@@ -11,6 +11,10 @@ At CEROC, I mainly contribute to the experiential research of both static and dy
 - 🌱 I’m currently learning Data Structure and Algorithms to improve my technical and problem-solving skills. Additionally, I am a constant learner of Statistics, Data Science, Machine Learning, and Deep Learning based techniques.
 
 
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=ahsan_ayub" width="400"/>
+</a>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhsanAyub&show_icons=true&theme=radical)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanAyub&layout=compact&exclude_repo=parameter_optimization_dga_analysis,ahsanayub.github.io,parameter_optimization_pdf_malware&hide=yara,html)](https://github.com/anuraghazra/github-readme-stats)
