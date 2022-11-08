@@ -6,7 +6,7 @@ I am a Ph.D. Candidate in the [Department of Computer Science](https://www.tntec
 
 At CEROC, I mainly contribute to the experiential research of both static and dynamic malware analysis for ransomware to propose multi-layered endpoint protection by incorporating Data Science, Machine Learning, and Reverse Engineering techniques. Additionally, I collaborate with the external security researchers in industry, U.S. national labs, and other universities to initiate as well as review the scope of research, perform experimentations, observe its progress, and analyze the empirical findings.
 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - 🔭 I’m currently working on [Deep Static Ransomware Analysis](https://github.com/AhsanAyub/deep_static_ransomware_analysis#readme), where my research collaborators and I are exploring data-driven similarities of the structure of ransowmare samples to propose an impactful prevention technique.
 - 🌱 I’m currently learning Data Structure and Algorithms to improve my technical and problem-solving skills. Additionally, I am a constant learner of Statistics, Data Science, Machine Learning, and Deep Learning based techniques.
 
